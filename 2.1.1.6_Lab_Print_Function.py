@@ -29,4 +29,4 @@ print('Hello, World!''')
 print(                  'Hello, World!')
 print('Hello, World!'                  )
 # PRINT('Hello, World!')       #<- NameError: name 'PRINT' is not defined
-# print)"Hello, World!"(         #<- SyntaxError: invalid syntax
+# print)"Hello, World!"(       #<- SyntaxError: invalid syntax
