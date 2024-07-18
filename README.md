@@ -1,4 +1,4 @@
-# This Repository contains some labs collected during the Fundamentals of programming. 
+# This Repository contains some labs collected during the Fundamentals of programming. (NETACAD | EDUBE Interactive)
 
 > Mentioning some of the topics covered in this first phase:
 * Module 1 - Introduction to Python and computer programming
